@@ -4,7 +4,7 @@
  * @Author: miss zhang
  * @Date: 2020-08-17 13:13:11
  * @LastEditors: zhang zi fang
- * @LastEditTime: 2020-08-17 13:51:14
+ * @LastEditTime: 2020-08-17 14:04:23
  */
 module.exports = {
     title: 'Hello Dave',
@@ -51,7 +51,7 @@ module.exports = {
             },
             {
                 text: "gitee",
-                link: "/handbook1/",
+                link: "https://gitee.com/zzf0529/Dave",
             },
             // {
             //     text: "工具",
